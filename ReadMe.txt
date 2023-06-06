@@ -1,0 +1,1 @@
+Data source: https://youcontrol.com.ua/bank-finscore/2023/1/
